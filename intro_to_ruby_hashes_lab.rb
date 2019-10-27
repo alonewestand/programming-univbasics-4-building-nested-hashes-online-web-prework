@@ -10,13 +10,10 @@ end
 
 def monopoly_with_second_tier
 	  monopoly = {
-<<<<<<< HEAD
 	    railroads: {pieces: 4, rent_in_dollars: {} }
-=======
 	    railroads: {
 	    pieces: 4
 	    }
->>>>>>> ca0ae4235a886835a35f57dbe3666ccaea1effcb
 	  }
 end
 
