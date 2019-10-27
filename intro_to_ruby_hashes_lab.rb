@@ -7,7 +7,6 @@ end
 
 def monopoly_with_second_tier
 	  monopent_in_dollaoly = {
-	    railroads: {pieces: 4, rrs: {} },
 	    railroads: {
 	    pieces: 4
 	    }
