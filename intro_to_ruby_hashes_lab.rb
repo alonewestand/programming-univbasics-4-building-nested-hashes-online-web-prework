@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 def base_hash
+=======
+def monopoly
+>>>>>>> ca0ae4235a886835a35f57dbe3666ccaea1effcb
 	  monopoly = {
 	    railroads: {} 
 	  }
@@ -6,7 +10,13 @@ end
 
 def monopoly_with_second_tier
 	  monopoly = {
+<<<<<<< HEAD
 	    railroads: {pieces: 4, rent_in_dollars: {} }
+=======
+	    railroads: {
+	    pieces: 4
+	    }
+>>>>>>> ca0ae4235a886835a35f57dbe3666ccaea1effcb
 	  }
 end
 
@@ -53,7 +63,7 @@ def monopoly_with_fourth_tier
 	          "mortgage_value" => "$400"
 	        },
 	        shortline_railroad: {
-	          'mortgage_value' => "$800"
+	          "mortgage_value": "$800"
 	        }}
 	    }
 	  }
